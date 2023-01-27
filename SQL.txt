@@ -1,0 +1,17 @@
+CREATE TABLE [dbo].[ZAPOSLENI] (
+    [id_zaposlenog] INT           IDENTITY (1, 1) NOT NULL,
+    [ime]           NVARCHAR (50) NOT NULL,
+    [prezime]       NVARCHAR (50) NOT NULL,
+    [username]      NVARCHAR (50) NOT NULL,
+    [password]      NVARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([id_zaposlenog] ASC)
+);
+
+CREATE TABLE [dbo].[Clanovi] (
+    [Id]               INT           IDENTITY (1, 1) NOT NULL,
+    [Ime]              NVARCHAR (15) NOT NULL,
+    [Prezime]          NVARCHAR (15) NOT NULL,
+    [Broj_telefona]    NVARCHAR (15) NOT NULL,
+    [datum_uclanjenja] NVARCHAR (15) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);

@@ -1,0 +1,65 @@
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\bin\Debug\Shared.dll
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\bin\Debug\Shared.pdb
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\bin\Debug\Shared.dll
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\bin\Debug\Shared.pdb
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\BusinessLayer\bin\Debug\Shared.dll
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\BusinessLayer\bin\Debug\Shared.pdb
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Djuro\Desktop\Vrtic\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Djuro\Desktop\Vrtic\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Djuro\Desktop\Vrtic\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Djuro\Desktop\Vrtic\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Djuro\Desktop\Vrtic\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Djuro\Desktop\Vrtic\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Djuro\Desktop\Vrtic\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Djuro\Desktop\Vrtic\BusinessLayer\bin\Debug\Shared.dll
+C:\Users\Djuro\Desktop\Vrtic\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Djuro\Desktop\Vrtic\BusinessLayer\bin\Debug\Shared.pdb
+C:\Users\Nikolica\Desktop\Vrtic\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Nikolica\Desktop\Vrtic\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Nikolica\Desktop\Vrtic\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Nikolica\Desktop\Vrtic\BusinessLayer\bin\Debug\Shared.dll
+C:\Users\Nikolica\Desktop\Vrtic\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Nikolica\Desktop\Vrtic\BusinessLayer\bin\Debug\Shared.pdb
+C:\Users\Nikolica\Desktop\Vrtic\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Nikolica\Desktop\Vrtic\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nikolica\Desktop\Vrtic\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Nikolica\Desktop\Vrtic\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Nikolica\Desktop\Vrtic\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\BusinessLayer\bin\Debug\Shared.dll
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\BusinessLayer\bin\Debug\Shared.pdb
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\BusinessLayer\obj\Debug\BusinessLayer.pdb

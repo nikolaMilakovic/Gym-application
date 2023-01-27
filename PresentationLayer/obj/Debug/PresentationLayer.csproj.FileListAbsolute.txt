@@ -1,0 +1,146 @@
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\Shared.dll
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\Shared.pdb
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.FormaProdavac.resources
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.FormaKupac.resources
+C:\Users\Sreten\Documents\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.LogIn.resources
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\Shared.dll
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\bin\Debug\Shared.pdb
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.FormaKupac.resources
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.FormaProdavac.resources
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.LogIn.resources
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Djuro\Desktop\si2021-projekat-si2021-27-photo\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\PresentationLayer\bin\Debug\Shared.dll
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\PresentationLayer\bin\Debug\Shared.pdb
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.LogIn.resources
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\PhotoTeam\PresentationLayer\obj\Debug\PresentationLayer.FormaDeca.resources
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\Vrtic\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\Vrtic\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\Vrtic\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\Vrtic\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\Vrtic\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\Vrtic\PresentationLayer\bin\Debug\Shared.dll
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\Vrtic\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\Vrtic\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\Vrtic\PresentationLayer\bin\Debug\Shared.pdb
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.FormaDeca.resources
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.LogIn.resources
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Djuro\Desktop\Fakultet\Vizuelno programiranje\Vizuleno\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Djuro\Desktop\Vrtic\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Djuro\Desktop\Vrtic\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Djuro\Desktop\Vrtic\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Djuro\Desktop\Vrtic\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Djuro\Desktop\Vrtic\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\Djuro\Desktop\Vrtic\PresentationLayer\bin\Debug\Shared.dll
+C:\Users\Djuro\Desktop\Vrtic\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Djuro\Desktop\Vrtic\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\Djuro\Desktop\Vrtic\PresentationLayer\bin\Debug\Shared.pdb
+C:\Users\Djuro\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Djuro\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.FormaDeca.resources
+C:\Users\Djuro\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.LogIn.resources
+C:\Users\Djuro\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Djuro\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Djuro\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Djuro\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Djuro\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\bin\Debug\Shared.dll
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\bin\Debug\Shared.pdb
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.FormaDeca.resources
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.LogIn.resources
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Nikolica\Desktop\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\bin\Debug\Shared.dll
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\bin\Debug\Shared.pdb
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.LogIn.resources
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Nikolica\Desktop\Faks moje\VIZ\Vrtic\PresentationLayer\obj\Debug\PresentationLayer.FormaClanovi.resources
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\bin\Debug\Shared.dll
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\bin\Debug\Shared.pdb
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\obj\Debug\PresentationLayer.FormaClanovi.resources
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\obj\Debug\PresentationLayer.LogIn.resources
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Nikolica\Desktop\Viz\Gym\PresentationLayer\obj\Debug\PresentationLayer.pdb
